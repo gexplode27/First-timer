@@ -1,2 +1,2 @@
 # First-timer
-my first REPO
+my first REPO in sharpening and trying dive into data analytic.
