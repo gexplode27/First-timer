@@ -7,8 +7,8 @@
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Carbon Dioxide Emission from 1995-2018 Analysis](#Carbon-Dioxide-Emission)
-	+ [Portfolio Projects](#portfolio-projects)
+	+ [Carbon Dioxide Emission Analysis](#Carbon-Dioxide-Emission-from-1995-2018-Analysis)
+	+ [Video Games Sales Analysis](#video-games-sales-analysis)
 
 - [Contacts](#contacts)
 
