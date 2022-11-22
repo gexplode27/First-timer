@@ -7,7 +7,7 @@
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ Carbon Dioxide Emission from 1995-2018 Analysis](#CO2 emission-analysis)
+	+ Carbon Dioxide Emission from 1995-2018 Analysis](#Carbon Dioxide Emission from 1995-2018 Analysis)
 
 - [Contacts](#contacts)
 
@@ -23,8 +23,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Contacts
-- LinkedIn: [@MOHAMAD ILLHAM](www.linkedin.com/in/mohdillham)
+- LinkedIn: [@mohdillham](www.linkedin.com/in/mohdillham)
 - E-mail: illgham.mus97@gmail.com
+
+
+  
+
+
 
 
 
