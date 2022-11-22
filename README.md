@@ -8,7 +8,7 @@
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Carbon Dioxide Emission from 1995-2018 Analysis](#CO2 emission-analysis)
-- [Certificates](#certificates)
+
 - [Contacts](#contacts)
 
 ## Portfolio Projects
